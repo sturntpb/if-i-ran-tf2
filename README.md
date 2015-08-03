@@ -43,17 +43,17 @@ Updates and fixes I would make to Team Fortress 2, were I on the TF2 Team.
 
 - Introduce an option (applied by default for new players) for a new disguise menu class order, arranged by how likely Spies are to select the disguise based speed and utility (instead of "Attack", "Defense", and "Support", the order is "Safe", "Tricky", and "Slow"):
 
-  1. Pyro
-  2. Engineer
-  3. Sniper
-  4. Spy (this makes double-tapping "4" disguise as a spy on the other team)
-  5. Medic
-  6. Scout
-  7. Demoman
-  8. Soldier
-  9. Heavy
+  - 1: Pyro
+  - 2: Engineer
+  - 3: Sniper
+  - 4: Spy (this makes double-tapping "4" disguise as a spy on the other team)
+  - 5: Medic
+  - 6: Scout
+  - 7: Demoman
+  - 8: Soldier
+  - 9: Heavy
   
-  This makes twitch re-disguising **way** easier. Also, this would stack with the 3-button disguise menu, so the key sequence for disguising as a Demoman with that option turned on would be 4 (Disguise), 3 (Slow Classes), 1 (Demoman).
+  This makes twitch re-disguising **way** more practical. Also, this would stack with the 3-button disguise menu (if the player *really* wants to trade harder access to Safe disguises for easier access to Slow disguises), so the key sequence for disguising as a Demoman with that option turned on would be 4 (Disguise), 3 (Slow Classes), 1 (Demoman).
 
 - Change the "Last/Random Disguise" key to only randomly select Pyro, Engineer, Sniper or Spy, so it never penalizes movement speed or disguise effectiveness based on movement speed.
 - Allow Spies to change their Last Used Disguise while waiting to respawn.
