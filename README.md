@@ -4,4 +4,4 @@ Updates and fixes I would make to Team Fortress 2, were I on the TF2 Team.
 
 ## Loadouts
 
-- Spy gets new taunt "wololo", where if an an enemy stands within a 150HU range for more than a second, they turn to the other team (rebalance happens with worst player on own team to die in next 8 seconds.).
+- Spy gets new taunt "wololo", where if an an enemy stands within a 150HU range for more than a second, they turn to the other team (rebalance happens with worst player on own team to die in the respawn period after the next teammate dies).
